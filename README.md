@@ -1,2 +1,2 @@
 # public
-Public repo for file exchange
+This is a public repository for exchanging files.
